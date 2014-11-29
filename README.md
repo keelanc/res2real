@@ -2,7 +2,7 @@ res2real
 ===============
 _by Keelan Chu For_
 
-Filter common **res**earch paper terms to **real** meanings. Takes a pdf and outputs an rtf.
+Filter common <b>res</b>earch paper terms to **real** meanings. Takes a pdf and outputs an rtf.
 
 The terms are defined in *A Glossary for Research Reports*.
 Allegedly, this was originally published in *A Random Walk in Science*.
